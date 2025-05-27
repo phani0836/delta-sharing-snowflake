@@ -1,8 +1,5 @@
 # Securely Read Databricks Delta Shares from Snowflake
 
-This repository supports the blog post:  
-**“How to Securely read Databricks Delta Shares from Snowflake; with Snowflake Artifact Repository”**  
-📖 [Read the full blog here](https://medium.com/@phani.alapaty/4dbbc69ea435)
 
 ## 📌 Overview
 
